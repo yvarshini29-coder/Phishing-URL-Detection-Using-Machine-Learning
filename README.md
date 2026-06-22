@@ -71,5 +71,3 @@ PSGR Krishnammal College for Women
 ## 📜 License
 
 This project is intended for educational, research, and internship purposes.
-⭐ If you found this project useful, please give it a star# Phishing-URL-Detection-Using-Machine-Learning
-A Machine Learning-based phishing URL detection system that identifies malicious URLs and helps protect users from online fraud and cyber attacks.
